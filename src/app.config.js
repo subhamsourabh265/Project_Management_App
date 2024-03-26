@@ -1,0 +1,20 @@
+export const UI_LABELS = {
+  SIDEBAR_HEADING: "Your Projects",
+  ADD_PROJECT: "+ Add Project",
+  NO_PROJECT_HEADING: "No Project Selected",
+  NO_PROJECT_DESC: "Select a project or get started with a new one",
+  NO_PROJECT_BTN: "Create new project",
+  TITLE: "Title",
+  DESC: "Description",
+  DUE_DATE: "Due Date",
+  CANCEl: "Cancel",
+  SAVE: "Save",
+  DELETE: "Delete",
+  INVALID_INPUT: "Invalid Input",
+  ERROR_MSG: "Oops ... looks like you forget to enter a value.",
+  ERROR_WARN:
+    "Please make sure you provide a valid value for every input field.",
+  ADD_TASK: "Add Task",
+  NO_TASK: "This project does not have any tasks yet.",
+  CLEAR: "Clear",
+};
